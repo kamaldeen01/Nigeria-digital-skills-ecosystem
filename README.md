@@ -1,7 +1,6 @@
 # Nigeria-digital-skills-ecosystem
 Systems-level analysis of digital skills in Nigeria 
-Market Dynamics & Value Sustainability
-DSHub Internship Program · Cohort A 2026 · Data Science & Analytics Track
+
 
 ## Project Overview
 This project presents a systems-level analysis of digital skills 
