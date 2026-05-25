@@ -40,7 +40,6 @@ absorbed into value-generating work.
 ## Tools Used
 Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn
 
-## Author
-Ismail Kamaldeen Akorede
+
 Group ID: DA3 · Data Science & Analytics Track
 DSHub Internship Program · Cohort A 2026
